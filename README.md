@@ -40,15 +40,11 @@ We used [Zillow](https://www.zillow.com) to get the Zestimates (current estimate
 
 The data from these two files were combined. 
 
-### Step4: Causal DAG exploration and evaluation
-
-In the file Global Markov & Failthfulness.ipynb we explore various DAG structures and evaluate each based on Global Markov and faithfulness properties, which can be found at the end of the file.
-
-### Step5: Model Building using Pyro
+#### Step5: Model Building using Pyro
 
 In the file `airbnb_analysis.ipynb` we build our causal models in pyro, analyze the results.
 
-## Directory Dictionary
+### Directory Dictionary
 
 ```
 ├── home\n
