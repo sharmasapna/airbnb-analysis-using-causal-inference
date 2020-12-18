@@ -15,7 +15,7 @@ As more and more people prefer to stay at airbnb accommodation rather than stayi
   
 ## How to explore this project
 
-The main file is  `Analysis.ipynb` notebook. It contains step by step implementation of causal inference on ROI of any investment listed on airbnb 
+The main file is  `airbnb_analysis.ipynb` notebook. It contains step by step implementation of causal inference on ROI of any investment listed on airbnb 
 
 Necessary api to collect the data are as follows :
 1. [Here Maps](https://developer.here.com/)
@@ -31,7 +31,7 @@ Analysis.ipynb is the python notebook and
 
 ```
 ├── home\n
-│   ├── analysis.ipynb   --- Main Notebook with the analysis
+│   ├── airbnb_analysis.ipynb   --- Main Notebook with the analysis
 │   ├── model_tests_notebook.ipynb  		 --- R notebook with the tests used in the main notebook
 │   ├── data
 │       ├── listings.csv        			---data directly from Airbnb
