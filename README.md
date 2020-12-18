@@ -3,35 +3,38 @@
 # Causal Data Science Analysis of Airbnb Listings : Boston
 
 ## Authors
-[AbdulRehman](http://www.linkedin.com/in/kaavya-gowthaman), [Prathwish Shetty](https://www.linkedin.com/in/prathwish/), [Sonal Jain](https://www.linkedin.com/in/sjain2212/)
+[AbdulRehman](), [Jerry Franklin] ,  [Sapna Sharma]
 
 ## Abstract
 
-In the past few years we have seen a shift in the way the hospitality industry works. People have started preferring local experiences and local hosts over fancy hotels. Airbnb has played a very crucial role in driving this change. 
-There are a large group of people who use Airbnb to generate income. Our project aims to help prospective Airbnb hosts maximize their return on investment using Causal data science Analysis, by helping them identify properties that would generate maximum return on investement.
+As more and more people prefer to stay at airbnb accommodation rather than staying at fancy hotels, the demand for airbnb has increased over time. Due to this demand more people are investing in houses to rent on Airbnb. Investors need to know which property to invest in to get high return on investment.
 
-[See Video abstract](https://youtu.be/L632ONT1L54) 
+
+[See Video abstract](https://youtu.be) 
   
   
 ## How to explore this project
 
-A good starting point to explore this project is with the `Causal Data Analysis.ipynb` notebook, it details all the concepts and methods used in this analysis. We would recommend using *Google Colab* to explore the notebook,as there are some Google Colab specific code that renders an applet.
+The main file is  `Analysis.ipynb` notebook. It contains step by step implementation of causal inference on ROI of any investment listed on airbnb 
 
-The project uses data from multiple sources and we have used various API's to collect the data. If you plan on collecting data for the same please refer to the follwing links to get the necessary API.
+Necessary api to collect the data are as follows :
 1. [Here Maps](https://developer.here.com/)
 1. [Walkscore.com](https://www.walkscore.com/professional/walk-score-apis.php)
 1. [greatschools.com](https://www.greatschools.org/api/request-api-key)
 
-If the above API's are deprecated or you are unable to collect data, we have stored the data in a directory `data`.
+The data collected by our team is in the folder `Data`
+We have done the analysis and testing of the models in R and Python Languages.
+Analysis.ipynb is the python notebook and
+   .rmd is the R file
 
 ## Directory Dictionary
 
 ```
 ├── home\n
-│   ├── Causal_Data_Science_Notebook.ipynb   --- Main Notebook with the analysis
+│   ├── analysis.ipynb   --- Main Notebook with the analysis
 │   ├── model_tests_notebook.ipynb  		 --- R notebook with the tests used in the main notebook
 │   ├── data
-│       ├── listings.csv        			---data directly from Airbnb from Feb 13th 2020
+│       ├── listings.csv        			---data directly from Airbnb
 │       ├── listings_manual.csv 			---listing with their price estimates, scrapped manually*
 │       ├── listings_full.csv   			---Feature rich dataset with all collected features*
 │   ├── images
