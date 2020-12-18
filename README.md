@@ -3,7 +3,7 @@
 # Causal Data Science Analysis of Airbnb Listings : Boston
 
 ## Authors
-[AbdulRehman](), [Jerry Franklin] ,  [Sapna Sharma]
+[AbdulRehman](), [Jerry Franklin]() ,  [Sapna Sharma]()
 
 ## Abstract
 
@@ -25,7 +25,7 @@ Necessary api to collect the data are as follows :
 The data collected by our team is in the folder `Data`
 We have done the analysis and testing of the models in R and Python Languages.
 Analysis.ipynb is the python notebook and
-   .rmd is the R file
+Global Markov & Failthfulness.ipynb is the code in R
 
 ## Directory Dictionary
 
