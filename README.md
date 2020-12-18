@@ -1,9 +1,9 @@
-# airbnb-analysis-using-causal-inference
 
-# Causal Data Science Analysis of Airbnb Listings : Boston
+
+# Airbnb Analysis using Causal Inference in Machine Learning
 
 ## Authors
-[AbdulRehman](), [Jerry Franklin]() ,  [Sapna Sharma]()
+[AbdulRehman](https://www.linkedin.com/in/abdulrehman1997/), [Jerry Franklin](https://www.linkedin.com/in/jerry-adams-franklin/) ,  [Sapna Sharma](https://www.linkedin.com/in/sapnasharma22/)
 
 ## Abstract
 
