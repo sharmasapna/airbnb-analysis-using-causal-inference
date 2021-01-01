@@ -49,10 +49,10 @@ In the file `airbnb_analysis.ipynb` we build our causal models in pyro, analyze 
 ```
 ├── home\n
 │   ├── airbnb_analysis.ipynb   --- Main Notebook with the analysis
-│   ├── model_tests_notebook.ipynb  		 --- R notebook with the tests used in the main notebook
-│   ├── data
-│       ├── listings.csv        			---data directly from Airbnb
-│       ├── listings_manual.csv 			---listing with their price estimates, scrapped manually*
-│       ├── listings_full.csv   			---Feature rich dataset with all collected features*
-│   ├── images
+│   ├── Global Markov & Failthfulness.ipynb  		 --- R notebook with the tests used in the main notebook
+│   
+│   ├── listings.csv        			---data directly from Airbnb
+│   ├── listings_manual.csv 			---listing with their price estimates, scrapped manually*
+│   ├── listings_full.csv   			---Feature rich dataset with all collected features*
+│   
 ```
