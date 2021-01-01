@@ -10,7 +10,7 @@
 As more and more people prefer to stay at airbnb accommodation rather than staying at fancy hotels, the demand for airbnb has increased over time. Due to this demand more people are investing in houses to rent on Airbnb. Investors need to know which property to invest in to get high return on investment.
 
 
-[See Video abstract](https://youtu.be) 
+[See Video abstract](https://www.youtube.com/watch?v=wHgvCu7qzY0&feature=youtu.be) 
   
   
 ## How to explore this project
